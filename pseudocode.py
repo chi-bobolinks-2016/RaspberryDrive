@@ -1,6 +1,3 @@
-
-
-
 def driveforward(time):
   FOR each second in time
     goforward(1)
